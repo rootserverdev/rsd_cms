@@ -116,7 +116,7 @@
 					<a class="has-arrow" href="javascript:;">
 						<div class="parent-icon"><i class="bx bx-lock"></i>
 						</div>
-						<div class="menu-title">Authentication</div>
+						<div class="menu-title">Authentifizierung</div>
 					</a>
 					<ul>
 						<li> <a href="#" target="_blank"><i class="bx bx-user"></i>Benutzer</a>
