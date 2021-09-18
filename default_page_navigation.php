@@ -35,7 +35,7 @@
 					<a class="has-arrow" href="javascript:;">
 						<div class="parent-icon"><i class="bx bx-buildings"></i>
 						</div>
-						<div class="menu-title">Behörden</div>
+						<div class="menu-title">Partner</div>
 					</a>
 					<ul>';
 					
@@ -52,7 +52,7 @@
 					<a class="has-arrow" href="javascript:;">
 						<div class="parent-icon"><i class="bx bx-box"></i>
 						</div>
-						<div class="menu-title">Themenfelder</div>
+						<div class="menu-title">Kategorien</div>
 					</a>
 					<ul>';
 					
@@ -68,7 +68,7 @@
 					<a class="has-arrow" href="javascript:;">
 						<div class="parent-icon"> <i class="bx bx-happy"></i>
 						</div>
-						<div class="menu-title">Lebenslagen</div>
+						<div class="menu-title">Tags</div>
 					</a>
 					<ul>';
 					
@@ -119,33 +119,33 @@
 						<div class="menu-title">Authentication</div>
 					</a>
 					<ul>
-						<li> <a href="authentication-signin.html" target="_blank"><i class="bx bx-user"></i>Benutzer</a>
+						<li> <a href="#" target="_blank"><i class="bx bx-user"></i>Benutzer</a>
 						</li>
-						<li> <a href="authentication-signup.html" target="_blank"><i class="bx bx-group"></i>Gruppen</a>
+						<li> <a href="#" target="_blank"><i class="bx bx-group"></i>Gruppen</a>
 						</li>
-						<li> <a href="authentication-signin-with-header-footer.html" target="_blank"><i class="bx bx-server"></i>Mandanten</a>
+						<li> <a href="#" target="_blank"><i class="bx bx-server"></i>Mandanten</a>
 						</li>
-						<li> <a href="authentication-signup-with-header-footer.html" target="_blank"><i class="bx bx-task"></i>Rollen</a>
+						<li> <a href="#" target="_blank"><i class="bx bx-task"></i>Rollen</a>
 						</li>
-						<li> <a href="authentication-forgot-password.html" target="_blank"><i class="bx bx-cube"></i>Module</a>
+						<li> <a href="#" target="_blank"><i class="bx bx-cube"></i>Module</a>
 						</li>
 						
 					</ul>
 				</li>
 				<li>
-					<a href="user-profile.html">
+					<a href="#">
 						<div class="parent-icon"><i class="bx bx-user-circle"></i>
 						</div>
-						<div class="menu-title">User Profile</div>
+						<div class="menu-title">Benutzerprofil</div>
 					</a>
 				</li>
 				
 				
 				<li>
-					<a href="faq.html">
+					<a href="#">
 						<div class="parent-icon"><i class="bx bx-help-circle"></i>
 						</div>
-						<div class="menu-title">FAQ</div>
+						<div class="menu-title">Hilfe</div>
 					</a>
 				</li>
 				
