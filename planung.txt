@@ -1,0 +1,34 @@
+App-Server
+Link-Manager
+Nachrichten
+CMS
+DynDNS
+Lexikon
+API-Login
+API-Kundendaten
+
+Sessions (FK Benutzerkonten)
+
+Mandanten (Behörden)
+Benutzerkonten (FK Mandanten)1
+<<Zwischentabelle>> (FK Benutzerkonten; FK Benutzergruppen)
+Benutzergruppen (FK Mandanten)
+Benutzerrollen (FK Benutzergruppen)
+Kontaktdaten (FK Mandanten)
+
+Benachrichtigungen (FK Kundenkonten; FK Benutzerkonten; FK Benutzerkonten)
+
+Kundenkonten
+Kunden-Nachrichten (FK Kundenkonten; FK Benutzerkonten; FK Benutzergruppen)
+Kunden-Nachrichten-Vorlagen (FK Benutzergruppen)
+Kunden-Dokumentenablage (FK Kundenkonten; FK Benutzerkonten; FK Benutzergruppen)
+
+Mandanten-Seiten (CMS) (FK Mandanten)
+
+Dienstleistung (FK Mandanten; FK Leika; FK OZG-Leistungen)
+>DL-Informationen (FK Dienstleistung)
+>DL-Erbringungsmittel (FK Dienstleistung)
+>DL-Downloads (FK Dienstleistung)
+Leika-Leistungen
+OZG-Leistungen (FK OZG-Kategorien)
+OZG-Kategorien
