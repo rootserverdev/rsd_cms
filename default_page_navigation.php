@@ -66,7 +66,7 @@
 				</li>
 				<li>
 					<a class="has-arrow" href="javascript:;">
-						<div class="parent-icon"> <i class="bx bx-happy"></i>
+						<div class="parent-icon"> <i class="bx bx-tag"></i>
 						</div>
 						<div class="menu-title">Tags</div>
 					</a>
