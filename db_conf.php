@@ -1,9 +1,9 @@
 <?php
 	
 	$db_host = '127.0.0.1';
-	$db_user = 'serviceportal';
-	$db_pass = 'serviceportal';
-	$db_base = 'serviceportal';
+	$db_user = 'devnet';
+	$db_pass = 'devnet';
+	$db_base = 'devnet';
 	
 	$pdo = new PDO('mysql:host=' . $db_host . ';dbname=' . $db_base, $db_user, $db_pass);
 	$con = mysqli_connect("$db_host","$db_user", "$db_pass", "$db_base");
